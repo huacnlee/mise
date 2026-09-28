@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.9.17](https://github.com/jdx/mise/compare/v2026.9.16..v2026.9.17) - 2026-09-28
+
+### 🐛 Bug Fixes
+
+- **(brew)** prepend the shim's `Pathname#write` override by @jacobbednarz in [#13760](https://github.com/jdx/mise/pull/13760)
+
+### 📦️ Dependency Updates
+
+- refresh markdownlint-cli's locked dependencies by @jdx in [#13769](https://github.com/jdx/mise/pull/13769)
+
 ## [2026.9.16](https://github.com/jdx/mise/compare/v2026.9.15..v2026.9.16) - 2026-09-28
 
 ### 🚀 Features
